@@ -1,0 +1,42 @@
+# ========================
+# Visual Studio / C#
+# ========================
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+*.vs/
+bin/
+obj/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# ========================
+# Configurações sensíveis
+# ========================
+BepInEx/config/ValAI.cfg
+APISelector.exe
+*.key
+.env
+
+# ========================
+# Sistema
+# ========================
+.DS_Store
+Thumbs.db
